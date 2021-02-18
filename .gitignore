@@ -35,3 +35,6 @@
 *.out
 *.app
 >>>>>>> bfdaa64ab3dabfd4ac774de0e4cd14dd8075fc45
+
+# Builds
+build-*
