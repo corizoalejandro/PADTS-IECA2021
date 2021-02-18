@@ -28,6 +28,9 @@ enum OPERADOR {
 
 typedef struct persona persona;
 typedef struct animal animal;
+typedef int entero;
+
+entero e = 4;
 
 int compara_personas(void *a, void *b);
 

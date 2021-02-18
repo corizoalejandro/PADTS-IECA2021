@@ -4,11 +4,11 @@
 #include <stdlib.h>
 
 #include "util.h"
-#include "clase5.h"
+#include "clase6.h"
 
 int main()
 {
-    c5_prueba1();
+    int *hola = 0;
 
     return 0;
 }
