@@ -25,6 +25,7 @@ int compara_personas(void *a, void *b){
 }
 
 int compara_animales(void *a, void *b){
+
     animal *animal_a = (animal*) a;
     animal *animal_b = (animal*) b;
     return strcmp(animal_a->nombre, animal_b->nombre);
